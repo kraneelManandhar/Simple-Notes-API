@@ -1,0 +1,22 @@
+{
+  "name": "simple-notes-api",
+  "version": "1.0.0",
+  "description": "Basic CRUD to create, read, update and delete notes stored in json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kraneelManandhar/Simple-Notes-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kraneelManandhar/Simple-Notes-API/issues"
+  },
+  "homepage": "https://github.com/kraneelManandhar/Simple-Notes-API#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
